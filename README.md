@@ -13,3 +13,14 @@ Files Description:
 4. PIR_Microwave_Camera: For Front Gate Security (PIR and Microwave sensor)
 5. shock_pir_pir_mag: For Living room and Bedroom PIR sensor, Magnetic Switch and shock sensor for window security.
 6. Ultra_Garage: For Garage Security (Ultrasonic Sensor)
+
+
+Diagrams:
+![](githubimages/Githubimages.png)
+![](githubimages/Githubimages_1.png)
+![](githubimages/Githubimages_2.png)
+![](githubimages/Githubimages_3.png)
+![](githubimages/Githubimages_4.png)
+![](githubimages/Githubimages_5.png)
+
+
